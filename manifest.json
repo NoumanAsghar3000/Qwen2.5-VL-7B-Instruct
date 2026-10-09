@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Qwen Vision Analysis Tool",
+  "short_name": "Qwen Vision",
+  "description": "General-purpose AI image and document analysis tool powered by Qwen2.5-VL-7B-Instruct",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f5fa",
+  "theme_color": "#1e1240",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
